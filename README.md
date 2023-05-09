@@ -1,2 +1,5 @@
 # Media
-Programa para validar media entre dois numeros
+- Objetivo: Programa criado para validar média entre dois números
+- Liguagem Utilizada: Java
+- Framework de teste: JUnit
+
